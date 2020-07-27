@@ -30,6 +30,12 @@ Execute utilizando o comandos
 
 Ou, se você estiver no Windows, pode dar um duplo-clique no ícone do programa
 
+## Divulgação
+
+[Link para meu site](https://matheus678.github.io/-CALCULADORA-/)
+
+Divulguem para seus familiares e amigos, se possível, desde já muito obrigado!
+
 ## Agradecimentos
 
 - [Etec Adolpho Berezin](http://eteab.com.br/cms/)
