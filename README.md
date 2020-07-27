@@ -32,14 +32,16 @@ Ou, se você estiver no Windows, pode dar um duplo-clique no ícone do programa
 
 ## Agradecimentos
 
-- [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp)
-
 - [Etec Adolpho Berezin](http://eteab.com.br/cms/)
 
-- [Prof. Ermogenes](https://github.com/ermogenes)
+-  [Prof. Ermogenes](https://github.com/ermogenes)
+
+-  [Prof. Neri](https://github.com/diegoneri)
+
+- [Dev C#](https://github.com/ermogenes/aulas-programacao-csharp)
 
 - [Figgle](https://github.com/drewnoakes/figgle)
 
-- [Prof. Neri](https://github.com/diegoneri)
+
 
 Todos os direitos reservados.
